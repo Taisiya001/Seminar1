@@ -1,0 +1,196 @@
+    * {
+        margin: 0;
+        padding: 0
+    }
+    
+    .header {
+        background-color: #222;
+    }
+    
+    .conteiner1 {
+        display: flex;
+        justify-content: center;
+    }
+    
+    .logo1 {
+        padding-top: 18px;
+        padding-bottom: 19px;
+        padding-left: 231px;
+        padding-right: 41px;
+    }
+    
+    .logo2 {
+        padding-top: 28.21px;
+        padding-bottom: 20px;
+        padding-right: 859px;
+    }
+    
+    .logo3 {
+        padding-top: 30px;
+        padding-bottom: 22px;
+        padding-right: 33px;
+    }
+    
+    .logo4 {
+        padding-top: 26px;
+        padding-bottom: 20px;
+        padding-right: 33px;
+    }
+    
+    .logo5 {
+        padding-top: 26px;
+        padding-bottom: 20px;
+        padding-right: 240px;
+    }
+    
+    .top_content {
+        background-color: #F1E4E6;
+        display: flex;
+        justify-content: center;
+    }
+    
+    .left {
+        padding-right: 799.42px;
+        padding-right: 63.42px;
+    }
+    
+    .right {
+        padding-top: 290px;
+        padding-bottom: 382.1px;
+        display: flex;
+        justify-content: flex-start;
+        padding-right: 10px;
+    }
+    
+    .h1 {
+        width: 377px;
+        height: 93px;
+        font-size: 48px;
+        font-style: normal;
+        font-weight: 900;
+        line-height: normal;
+        padding-left: 10px;
+        text-align: left;
+        line-height: 25px;
+        padding-top: 11px;
+        flex-wrap: wrap;
+    }
+    
+    .h1 span {
+        color: #222;
+        font-family: Lato;
+        font-size: 32px;
+        font-style: normal;
+        font-weight: 700;
+        line-height: normal;
+        text-align: right;
+        white-space: pre-wrap;
+    }
+    
+    .h1 span2 {
+        color: #F16D7F;
+        font-family: Lato;
+        font-size: 32px;
+        font-style: normal;
+        font-weight: 700;
+        line-height: normal;
+    }
+    
+    .item {
+        background-color: rgba(33, 22, 22, 0.70);
+        background-blend-mode: overlay;
+        overflow: hidden;
+    }
+    
+    .item_long {
+        background-color: rgba(33, 22, 22, 0.70);
+        background-blend-mode: overlay;
+        overflow: hidden;
+    }
+    
+    .item_text {
+        color: #FFF;
+        text-align: center;
+        font-family: Lato;
+        font-size: 16px;
+        font-style: normal;
+        font-weight: 400;
+        line-height: normal;
+    }
+    
+    .item_text span {
+        color: #F16D7F;
+        font-family: Lato;
+        font-size: 24px;
+        font-style: normal;
+        font-weight: 700;
+        line-height: normal;
+    }
+    
+    .top1 {
+        display: grid;
+        gap: 30px;
+        grid-template-columns: repeat(3, 360px);
+        justify-content: center;
+        margin-top: 60px;
+    }
+    
+    .item_long {
+        grid-column: span 3;
+    }
+    
+    .top2 {
+        display: grid;
+        gap: 30px;
+        grid-template-columns: repeat(3, 360px);
+        justify-content: center;
+        margin-top: 60px;
+    }
+    
+    .item_text1 {
+        color: #000;
+        font-family: Lato;
+        font-size: 13px;
+        font-style: normal;
+        font-weight: 400;
+        line-height: normal;
+    }
+    
+    .p {
+        color: #5D5D5D;
+        font-family: Lato;
+        font-size: 14px;
+        font-style: normal;
+        font-weight: 300;
+        line-height: normal;
+    }
+    
+    .p2 {
+        color: #F16D7F;
+        font-family: Lato;
+        font-size: 16px;
+        font-style: normal;
+        font-weight: 400;
+        line-height: normal;
+    }
+    
+    .title {
+        display: flex;
+        justify-content: center;
+        margin-top: 96px;
+    }
+    
+    .title2 {
+        display: flex;
+        justify-content: center;
+        padding-top: 6px;
+    }
+    
+    .t .p1 {
+        color: #9F9F9F;
+        font-family: Lato;
+        font-size: 14px;
+        font-style: normal;
+        font-weight: 400;
+        line-height: normal;
+    }
